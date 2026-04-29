@@ -20,6 +20,7 @@ Never compresses code, errors, or technical terms.
 Auto-switches to full sentences for security warnings 
 and destructive operations. Resumes compression after.
 
+## Example👇
 Question: "Why is my API returning 401 errors?"
 
 ## /normal (default GPT)
